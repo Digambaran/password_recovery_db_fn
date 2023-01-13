@@ -1,0 +1,25 @@
+{
+  "name": "sample_shield_database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Digambaran/sample_shield_database/issues"
+  },
+  "homepage": "https://github.com/Digambaran/sample_shield_database#readme",
+  "dependencies": {
+    "@appblocks/node-sdk": "https://github.com/appblocks-hub/node-sdk.git",
+    "@prisma/client": "^4.7.0",
+    "redis": "^4.5.1"
+  },
+  "devDependencies": {
+    "prisma": "^4.7.0"
+  }
+}
